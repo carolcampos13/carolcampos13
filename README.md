@@ -49,7 +49,7 @@ Estes são alguns dos projetos públicos que desenvolvi recentemente (e que voc�
 
 Estou sempre aberta a trocar ideias sobre Engenharia de Software, projetos acadêmicos e oportunidades de estágio!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-campos-076b601a0/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-software-engineering/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:carol-campos@outlook.com.br)
 
 ---
