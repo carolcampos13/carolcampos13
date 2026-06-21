@@ -25,6 +25,8 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia de estudos e de
 
 Estes são alguns dos projetos públicos que desenvolvi recentemente (e que você pode conferir fixados no meu perfil):
 
+* 🤖 **[fin-mentor-reserva](https://github.com/carolcampos/fin-mentor-reserva)** — Mentor financeiro inteligente focado em reserva de emergência para trabalhadores autônomos. Desenvolvido em **Python** com interface em **Streamlit**, integrado à API do Gemini utilizando técnicas avançadas de engenharia de prompts, banco de dados estruturado em JSON e filtros rígidos de segurança (*guardrails*). Projeto destaque criado para o Desafio Bradesco + DIO.
+
 * 🎙️ **[english-voice-buddy](https://github.com/carolcampos13/english-voice-buddy)**
   Um tutor inteligente de conversação e pronúncia em inglês. Desenvolvido em **Python** com interface em **Streamlit**, utilizando a **IA Multimodal (Gemini 2.5-flash)** para análise e feedback em tempo real.
   
